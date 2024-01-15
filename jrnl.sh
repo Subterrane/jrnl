@@ -1,4 +1,4 @@
-cd ~/journal
+cd ~/jrnl
 
 # Get today's date
 TODAY=$(date +'%Y-%m-%d')
