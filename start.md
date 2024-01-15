@@ -1,4 +1,4 @@
 # Start
 
-[ ] start journaling
-[X] delete the tasks that are done
+- [ ] start journaling
+- [X] delete the tasks that are done
